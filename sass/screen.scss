@@ -5,5 +5,9 @@
 
 @import "compass/reset";
 h1 {
-    color: #fff;
+   color: #fff;
+   span {color: #fafafa;}
 }
+$color: red
+a
+    {border: 1px solid $color;}
